@@ -2,9 +2,9 @@
 
 ## Identificacao
 
-- Aluno: Marcos de Oliveira Campos
+- Aluno: ELiane de Freitas
 - Professor: Rafael Marconi Ramos
-- Turma: ADS04N1
+- Turma: ADS05N1
 - Curso: Analise e Desenvolvimento de Sistemas
 
 ## Resultados de Execucao
